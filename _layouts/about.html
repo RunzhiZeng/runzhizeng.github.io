@@ -41,6 +41,12 @@ layout: default
             {{ content }}
           </div>
 
+          <!-- Publications -->
+          {% if page.papers -%}
+            <h2>Publications</h2>
+            {%- include publications.html %}
+          {%- endif %}
+
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
