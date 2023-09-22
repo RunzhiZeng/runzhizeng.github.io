@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: homepage
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: runzhi.zeng [at] ntnu.no
 
 profile:
   align: right
@@ -19,10 +19,13 @@ papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second-year phd student at [NTNU](https://www.ntnu.no/), Norway. I work in the area of public-key cryptography:
-* Tight security
+I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [Prof. Dr. Jiaxin Pan](https://sites.google.com/view/jiaxinpan). I work in the area of public-key cryptography:
+* Authenticated Key Exchange
 
-* Post-quantum  
+* Post-quantum Cryptography
+
+<!--h2>Review</h2>
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
