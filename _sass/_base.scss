@@ -120,6 +120,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
+    font-size: 0.8rem;
     font-family: monospace;
 
     p {
@@ -646,6 +647,7 @@ footer.sticky-bottom {
       }
 
       .title {
+        display: inline;
         font-weight: bolder;
       }
 

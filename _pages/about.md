@@ -2,15 +2,14 @@
 layout: about
 title: homepage
 permalink: /
-subtitle: runzhi.zeng [at] ntnu.no
+CNname: 曾润智
+subtitle: <b>曾润智<b>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Runzhi Zeng<p>
-    <b>曾润智<b>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

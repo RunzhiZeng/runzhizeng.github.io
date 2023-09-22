@@ -25,12 +25,13 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
-        </div>
+        </div-->
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
         <!-- Title -->
-        <div class="title">{{entry.title}}<div class="links"><a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">link</a></div>
+        <div class="title"><a href="{{ entry.website }}">{{entry.title}}</a>
+        <!--div class="title">{{entry.title}}<div class="links"><a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">link</a></div-->
         </div>
         <!-- Links/Buttons -->
         <!--div class="links">
