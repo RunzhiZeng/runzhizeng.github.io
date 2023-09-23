@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://runzhizeng.github.io/sitemap.xml
+Sitemap: https://RunzhiZeng.github.io/sitemap.xml
