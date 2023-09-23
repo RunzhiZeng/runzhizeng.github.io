@@ -20,9 +20,29 @@ papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [Prof. Dr. Jiaxin Pan](https://sites.google.com/view/jiaxinpan). My research focuses on the design and analysis of post-quantum secure cryptosystems.
+<br>
+<br>
+<br>
 
+I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [Prof. Dr. Jiaxin Pan](https://sites.google.com/view/jiaxinpan). My research interest is in the area of public-key cryptography, with emphasis on the following topics:
 
+* Design and analysis of authenticated key exchange (AKE) and password-based AKE
+
+* Constructing efficient lattice-based cryptosystems
+
+* Analysis of post-quantum cryptosystems in quantum idealized models
+
+---
+
+## Academic Activities
+
+* Review: Eurocrypt'23, TCC'23, PKC'22, ESORIC'22, Asiacrypt'22
+
+* Teaching: TA of [TMA4160 - Kryptografi](https://wiki.math.ntnu.no/tma4160)
+
+<br>
+
+---
 <!--
 * Authenticated Key Exchange (AKE), including
   * Tight security of AKE protocols
