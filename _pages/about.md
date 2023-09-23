@@ -23,6 +23,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 <br>
 <br>
+<br>
 
 I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [Prof. Dr. Jiaxin Pan](https://sites.google.com/view/jiaxinpan). My research interest is in the area of public-key cryptography, with emphasis on the following topics:
 
@@ -43,15 +44,6 @@ I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [P
 <br>
 
 ---
-<!--
-* Authenticated Key Exchange (AKE), including
-  * Tight security of AKE protocols
-  * Password-based AKE protocols
-* Lattice-based Cryptography, including
-  * design of efficient lattice-based cryptosystem, and
-  * security analysis in quantum idealized models, e.g., quantum random oracle model and quantum ideal cipher model.-->
-<!--h2>Review</h2>
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
