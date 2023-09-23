@@ -85,7 +85,6 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-
   img {
     width: 100%;
   }
@@ -653,8 +652,7 @@ footer.sticky-bottom {
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
-
+          color: var(--global-coauthor-color);
           &:hover {
             border-bottom-style: solid;
             text-decoration: none;
@@ -668,7 +666,7 @@ footer.sticky-bottom {
 
         >span.more-authors {
           color: var(--global-text-color-light);
-          border-bottom: 1px dashed var(--global-text-color-light);
+          border-bottom: 1px dashed var(--global-text-color);
           cursor: pointer;
 
           &:hover {
