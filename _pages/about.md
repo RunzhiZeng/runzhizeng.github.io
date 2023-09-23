@@ -2,14 +2,16 @@
 layout: about
 title: homepage
 permalink: /
+subtitle: 
+  <p>Department of Mathematical Sciences <br> Norwegian University of Science and Technology </p>
+  <p><b> Email:</b> runzhi.zeng [at] ntnu.no </p>
 CNname: 曾润智
-subtitle: <b>曾润智<b>
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
