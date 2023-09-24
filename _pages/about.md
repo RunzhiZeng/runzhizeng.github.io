@@ -38,7 +38,7 @@ I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [P
 
 ---
 
-## Academic Activities
+## <b> Academic Activities </b>
 
 <br>
 
