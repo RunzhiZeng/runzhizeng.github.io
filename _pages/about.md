@@ -33,6 +33,8 @@ I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [P
 
 * Analysis of post-quantum cryptosystems in quantum idealized models
 
+<br>
+
 ---
 
 ## Academic Activities
