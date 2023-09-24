@@ -40,9 +40,16 @@ I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [P
 
 ## Academic Activities
 
-* Review: Eurocrypt'23, TCC'23, PKC'22, ESORIC'22, Asiacrypt'22
+<br>
 
-* Teaching: TA of [TMA4160 - Kryptografi](https://wiki.math.ntnu.no/tma4160)
+
+### Review: 
+
+* Eurocrypt'23, TCC'23, PKC'22, ESORIC'22, Asiacrypt'22
+
+### Teaching: 
+
+* TA of [TMA4160 - Kryptografi](https://wiki.math.ntnu.no/tma4160)
 
 <br>
 
