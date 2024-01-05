@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 <br>
 
-I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [Prof. Dr. Jiaxin Pan](https://sites.google.com/view/jiaxinpan). My research interest is in the area of public-key cryptography, with emphasis on the following topics:
+I am a PhD student at [Norges Teknisk-Naturvitenskapelige Universitet](https://www.ntnu.no/), supervised by [Prof. Dr. Jiaxin Pan](https://sites.google.com/view/jiaxinpan). My research interest is in the area of public-key cryptography, with emphasis on the following topics:
 
 * Design and analysis of authenticated key exchange (AKE) and password-based AKE
 
@@ -44,7 +44,7 @@ I am a second-year phd student at [NTNU](https://www.ntnu.no/), supervised by [P
 
 #### Review:
 
-* Eurocrypt'23, TCC'23, PKC'22, ESORIC'22, Asiacrypt'22
+* Eurocrypt'24, Eurocrypt'23, TCC'23, PKC'22, ESORIC'22, Asiacrypt'22
 
 #### Teaching: 
 
