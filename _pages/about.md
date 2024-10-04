@@ -3,8 +3,8 @@ layout: about
 title: homepage
 permalink: /
 subtitle: 
-  <p>Department of Mathematical Sciences <br> Norwegian University of Science and Technology </p>
-  <p><b> Email:</b> runzhi.zeng [at] ntnu.no </p>
+  <p>Department of Information Security <br> University of Kassel </p>
+  <p><b> Email:</b> runzhi.zeng [at] uni-kassel.de </p>
 CNname: 曾润智
 
 profile:
@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 <br>
 
-I am a PhD student at [Norges Teknisk-Naturvitenskapelige Universitet](https://www.ntnu.no/), supervised by [Prof. Dr. Jiaxin Pan](https://sites.google.com/view/jiaxinpan). My research interest is in the area of public-key cryptography, with emphasis on the following topics:
+I am currently a post-doc researcher at [Universität Kassel](https://www.uni-kassel.de/uni/) working with [Jiaxin Pan](https://sites.google.com/view/jiaxinpan). In September 2024, I completed my PhD at [Norges Teknisk-Naturvitenskapelige Universitet](https://www.ntnu.no/) under the supervision of [Jiaxin Pan](https://sites.google.com/view/jiaxinpan), with [Tibor Jager](https://itsc.uni-wuppertal.de/de/mitarbeiter/prof-dr-ing-tibor-jager/) as the co-examiner. My research interest is in the area of public-key cryptography, with emphasis on the following topics:
 
 * Design and analysis of authenticated key exchange (AKE) and password-based AKE
 
@@ -35,12 +35,17 @@ I am a PhD student at [Norges Teknisk-Naturvitenskapelige Universitet](https://w
 * Analysis of post-quantum cryptosystems in quantum idealized models
 
 <br>
+<br>
 
 ---
 
 ## <b> Academic Activities </b>
 
 <br>
+
+#### Program Committee:
+
+* PKC'25
 
 #### Review:
 
