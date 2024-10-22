@@ -69,7 +69,7 @@ nav: false
 
 | Week | Date          | Topic                           | Notes/Readings                                      |
 |------|---------------|---------------------------------|-----------------------------------------------------|
-| **Lecture 1** | Oct 23, 2024 | **Introduction, recall of some cryptographic primitives**    | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_1.pptx), [Code](../assets/course_CE_WiSe2425/code/Code_L1/) |
+| **Lecture 1** | Oct 23, 2024 | **Introduction, recall of some cryptographic primitives**    | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_1.pptx), [Code](../assets/course_CE_WiSe2425/code/Code_L1.zip) |
 | **Lecture 2** | Oct 30, 2024 | **MitM attacks, digital signature + KE, certificates** ||
 | **Lecture 3** | Nov 06, 2024    |              ||
 | ...  | ...           | ...                             | ...                                                 |
