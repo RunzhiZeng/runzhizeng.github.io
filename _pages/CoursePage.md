@@ -40,6 +40,10 @@ nav_order: 1
     <h1 class="course-title">Cryptography Engineering (WiSe 2024/25)</h1>
 </div>
 
+<br>
+<br>
+
+---
 
 <h2 class="course-sub-title">Course information</h2>
 
@@ -64,8 +68,8 @@ nav_order: 1
 | ...  | ...           | ...                             | ...                                                 |
 | **Lecture 13** | Feb 12, 2025    |              ||
 | **Lecture 14** | (Feb 14, 2025?)    |(Required only if we do not complete this course by Lecture 13)| |
-||
 
+---
 
 <h2 class="course-sub-title">Homework</h2>
 
@@ -76,6 +80,7 @@ nav_order: 1
     - **Deadline 2**: Dec 20, 2024 at 23:59
     - **Deadline 3**: Feb 7, 2025 at 23:59
 
+---
 
 <h2 class="course-sub-title">Final Exam</h2>
 
@@ -84,6 +89,8 @@ nav_order: 1
 2. Submit a simple report: Choose 3-6 functions that you think are the best in your program and present them in your report, including *What it does*, *How it works*, and *Why it works correctly* (2-4 pages, no introduction). 
 3. **Deadline** for the report and the final project code: **Feb 28th, 2025**
 4. Oral Exam: Show me your code and answer questions related to your report and code.
+
+---
 
 <!-- <h2 class="course-sub-title">Announcements</h2> -->
 
