@@ -47,6 +47,8 @@ nav_order: 1
 
 <h2 class="course-sub-title">Course information</h2>
 
+<br>
+
 - **Instructor**: [Runzhi Zeng](https://runzhizeng.github.io/)
 - **Email**: runzhi.zeng@uni-kassel.de
 - **Office Hours**: 
@@ -55,21 +57,32 @@ nav_order: 1
 - **Grading**: 40% homework + 60% final exam
 
 
+<br>
+
 ---
+
+
+<br>
+
 <h2 class="course-sub-title">(Tentative) Schedule and Resources</h2>
 
-
+<br>
 
 | Week | Date          | Topic                           | Notes/Readings                                      |
 |------|---------------|---------------------------------|-----------------------------------------------------|
-| **Lecture 1** | Oct 23, 2024 | **Introduction, recall of some cryptographic primitives**    | |
+| **Lecture 1** | Oct 23, 2024 | **Introduction, recall of some cryptographic primitives**    | [Slides](assets/course_CE_WiSe2425/slide/Lecture_1.pptx), [Code](assets/course_CE_WiSe2425/code/Code_L1/) |
 | **Lecture 2** | Oct 30, 2024 | **MitM attacks, digital signature + KE, certificates** ||
 | **Lecture 3** | Nov 06, 2024    |              ||
 | ...  | ...           | ...                             | ...                                                 |
 | **Lecture 13** | Feb 12, 2025    |              ||
 | **Lecture 14** | (Feb 14, 2025?)    |(Required only if we do not complete this course by Lecture 13)| |
 
+<br>
+
 ---
+
+
+<br>
 
 <h2 class="course-sub-title">Homework</h2>
 
@@ -80,15 +93,20 @@ nav_order: 1
     - **Deadline 2**: Dec 20, 2024 at 23:59
     - **Deadline 3**: Feb 7, 2025 at 23:59
 
+<br>
+
 ---
 
+<br>
 <h2 class="course-sub-title">Final Exam</h2>
 
-**Format**: Final Project + Report + Oral Exam
+**Format**: Final Project + Report + Oral Exam: 
 1. Choose one of the two final projects and begin coding (the topics of the two projects will be introduced later).
 2. Submit a simple report: Choose 3-6 functions that you think are the best in your program and present them in your report, including *What it does*, *How it works*, and *Why it works correctly* (2-4 pages, no introduction). 
 3. **Deadline** for the report and the final project code: **Feb 28th, 2025**
 4. Oral Exam: Show me your code and answer questions related to your report and code.
+
+<br>
 
 ---
 
