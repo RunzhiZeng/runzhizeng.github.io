@@ -48,6 +48,7 @@ nav: false
 
 <br>
 
+- **Location**: [Room 2104](https://portal.uni-kassel.de/qisserver/rds?state=verpublish&status=init&vmfile=no&moduleCall=webInfo&publishConfFile=webInfoRaum&publishSubDir=raum&keep=y&raum.rgid=14868)
 - **Instructor**: [Runzhi Zeng](https://runzhizeng.github.io/)
 - **Email**: runzhi.zeng@uni-kassel.de
 - **Office Hours**: 
