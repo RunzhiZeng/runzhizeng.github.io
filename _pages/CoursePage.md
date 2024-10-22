@@ -2,8 +2,7 @@
 layout: default
 permalink: /CE-w2425/
 title: CE-w2425
-nav: true
-nav_order: 1
+nav: false
 ---
 
 <style>
