@@ -91,7 +91,7 @@ nav: false
 - **Homework accounts for 40%** of the final grade.
 - **Three submission deadlines** for homework (submission via email or GitHub link)
     - **Deadline 1**: Nov 22, 2024 at 23:59 -- homework from lectures 1-2
-    - **Deadline 2**: Dec 20, 2024 at 23:59
+    - **Deadline 2**: Dec 20, 2024 at 23:59 -- homework from lectures 3-4, 7
     - **Deadline 3**: Feb 7, 2025 at 23:59
 
 <br>
