@@ -73,7 +73,7 @@ nav: false
 | **Lecture 1** | Oct 23, 2024 | **Introduction, Recall of some cryptographic primitives** | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_1.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L1.zip) |
 | **Lecture 2** | Oct 30, 2024 | **MitM attacks, Digital signature, Certificate** | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_2.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L2.zip) |
 | **Lecture 3** | Nov 06, 2024 | **Signed Diffie-Hellman, TLS Handshake** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_3.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L3.zip)|
-| **Lecture 4** | Nov 13, 2024 | **Secure Messaging, X3DH** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_4.pdf)|
+| **Lecture 4** | Nov 13, 2024 | **Secure Messaging, X3DH** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_4.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L4.zip)|
 | ...  | ...           | ...                             | ...                                                 |
 | **Lecture 13** | Feb 12, 2025    |              ||
 | **Lecture 14** | (Feb 14, 2025?)    |(Required only if we do not complete this course by Lecture 13)| |
