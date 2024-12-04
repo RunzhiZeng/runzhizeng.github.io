@@ -107,7 +107,7 @@ nav: false
 **Format**: Final Project + Report + Oral Exam: 
 1. Choose one of the two final projects and begin coding (the topics of the two projects will be introduced later).
 2. Submit a simple report: Choose 3-6 functions that you think are the best in your program and present them in your report, including *What it does*, *How it works*, and *Why it works correctly* (2-4 pages, no introduction). 
-3. **Deadline** for the report and the final project code: **Feb 28th, 2025**
+3. **Deadline** for the report and the final project code: **March 7th, 2025**
 4. Oral Exam: Show me your code and answer questions related to your report and code.
 
 <br>
