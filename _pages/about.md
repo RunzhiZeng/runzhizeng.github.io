@@ -45,7 +45,7 @@ I am currently a post-doc researcher at [Universität Kassel](https://www.uni-ka
 
 #### Program Committee:
 
-* PKC'25
+* ISC'25, PKC'25
 
 #### Review:
 
