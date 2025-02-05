@@ -81,7 +81,7 @@ nav: false
 | **Lecture 9** | Jan 15, 2024 | **Password-based Authentication - 3** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_9.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L9.zip)|
 | **Lecture 10**  | Jan 22, 2024| **Some attacks in Cryptography**                              | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_10.pdf), , [Code](../assets/course_CE_WiSe2425/code/Code_L10.zip)|
 | **Lecture 11**  | Jan 29, 2024| **Post-quantum Cryptography - 1**                             | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_11.pdf)                                                 |
-| **Lecture 12**  | Feb 05, 2024| **Post-quantum Cryptography - 2**                             | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_11.pdf)                                                 |
+| **Lecture 12**  | Feb 05, 2024| **Post-quantum Cryptography - 2**                             | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_12.pdf)                                                 |
 | **Lecture 13** | Feb 12, 2025 | **Summary** |...|
 
 <br>
