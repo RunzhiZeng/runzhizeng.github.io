@@ -30,9 +30,9 @@ I am currently a post-doc researcher at [Universität Kassel](https://www.uni-ka
 
 * Design and analysis of authenticated key exchange (AKE) and password-based AKE
 
-* Constructing efficient lattice-based cryptosystems
+* Construction of efficient lattice-based cryptographic schemes
 
-* Analysis of post-quantum cryptosystems in quantum idealized models
+* Security analysis of post-quantum cryptosystems in quantum idealized models
 
 <br>
 <br>
