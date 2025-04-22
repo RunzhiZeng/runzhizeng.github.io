@@ -64,7 +64,7 @@ nav: false
 
 <br>
 
-<h2 class="course-sub-title">(Tentative) Schedule and Resources</h2>
+<h2 class="course-sub-title">Schedule and Resources</h2>
 
 <br>
 

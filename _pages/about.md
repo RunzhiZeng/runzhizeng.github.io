@@ -55,6 +55,7 @@ I am currently a post-doc researcher at [Universität Kassel](https://www.uni-ka
 
 * TA of [TMA4160 - Kryptografi](https://wiki.math.ntnu.no/tma4160)
 * [Cryptography Engineering](https://runzhizeng.github.io/CE-w2425)
+* [Quantum Computing](https://runzhizeng.github.io/QC-s25)
 
 <br>
 
