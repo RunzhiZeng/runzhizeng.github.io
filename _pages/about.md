@@ -49,7 +49,8 @@ I am currently a post-doc researcher at [Universität Kassel](https://www.uni-ka
 
 #### Review:
 
-* Crypto'(25,24), Eurocrypt'(25,24,23), PKC'(25,22), Asiacrypt'(24, 22), TCC'(24,23), ESORIC'22
+* Conferences: *Crypto'(25,24), Eurocrypt'(25,24,23), PKC'(25,22), Asiacrypt'(24, 22), TCC'(24,23), ESORIC'22*
+* Journals: *Design, Code, and Cryptography*
 
 #### Teaching: 
 
