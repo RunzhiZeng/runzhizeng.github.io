@@ -69,7 +69,7 @@ nav: false
 
 | Week | Date          | Topic                           | Notes/Exercises                                      |
 |------|---------------|---------------------------------|-----------------------------------------------------|
-| **Lectures 1-2** | Apr 23-24, 2024 | **Introduction** | [Slides](../assets/course_QC_SoSe25/Lecture_1.pdf) |
+| **Lectures 1-2** | Apr 23-24, 2024 | **Introduction** | [Slides](../assets/course_QC_SoSe25/W1_L1.pdf) |
 | **Lecture 3** | Apr 30, 2024 | **Qubit** | |
 
 ---
