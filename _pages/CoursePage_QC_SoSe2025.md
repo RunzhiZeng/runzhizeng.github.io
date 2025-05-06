@@ -70,7 +70,7 @@ nav: false
 | Week | Date          | Topic                           | Notes/Exercises                                      |
 |------|---------------|---------------------------------|-----------------------------------------------------|
 | **Lectures 1-2** | Apr 23-24, 2024 | **Introduction, Qubit** | [Slides_L1](../assets/course_QC_SoSe25/W1_L1.pdf), [Slides_L2](../assets/course_QC_SoSe25/W1_L2.pdf) |
-| **Lecture 3** | Apr 30, 2024 | **Unitary, Quantum Gates** | |
+| **Lecture 3** | Apr 30, 2024 | **Unitary, Quantum Gates** | [Slides_L3](../assets/course_QC_SoSe25/W2_L1.pdf) |
 
 ---
 
