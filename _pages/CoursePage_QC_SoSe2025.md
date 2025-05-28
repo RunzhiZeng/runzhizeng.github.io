@@ -69,11 +69,11 @@ nav: false
 
 | Week | Date          | Topic                           | Notes/Exercises                                      |
 |------|---------------|---------------------------------|-----------------------------------------------------|
-| **Lectures 1-2** | Apr 23-24, 2024 | **Introduction, Qubit** | [Slides_L1](../assets/course_QC_SoSe25/W1_L1.pdf), [Slides_L2](../assets/course_QC_SoSe25/W1_L2.pdf) |
-| **Lecture 3** | Apr 30, 2024 | **Unitary, Quantum Gates** | [Slides_L3](../assets/course_QC_SoSe25/W2_L1.pdf) |
-| **Lectures 4-5** | May 7-8, 2024 | **Deutsch-Jozsa - 1** | [Slides_L45](../assets/course_QC_SoSe25/W3.pdf) |
-| **Lectures 6-7** | May 21-22, 2024 | **Deutsch-Jozsa - 2, Postulates of Quantum Computing** | [Slides_L67](../assets/course_QC_SoSe25/W5.pdf) |
-| **Lecture 8** | May 28, 2024 | **Entanglement, Partial Measurement** | [Slides_L8](../assets/course_QC_SoSe25/W6.pdf) |
+| **Lectures 1-2** | Apr 23-24, 2025 | **Introduction, Qubit** | [Slides_L1](../assets/course_QC_SoSe25/W1_L1.pdf), [Slides_L2](../assets/course_QC_SoSe25/W1_L2.pdf) |
+| **Lecture 3** | Apr 30, 2025 | **Unitary, Quantum Gates** | [Slides_L3](../assets/course_QC_SoSe25/W2_L1.pdf) |
+| **Lectures 4-5** | May 7-8, 2025 | **Deutsch-Jozsa - 1** | [Slides_L45](../assets/course_QC_SoSe25/W3.pdf) |
+| **Lectures 6-7** | May 21-22, 2025 | **Deutsch-Jozsa - 2, Postulates of Quantum Computing** | [Slides_L67](../assets/course_QC_SoSe25/W5.pdf) |
+| **Lecture 8** | May 28, 2025 | **Entanglement, Partial Measurement** | [Slides_L8](../assets/course_QC_SoSe25/W6.pdf) |
 
 ---
 
