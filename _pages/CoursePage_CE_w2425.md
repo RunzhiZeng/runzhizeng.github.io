@@ -78,10 +78,10 @@ nav: false
 | **Lecture 6** | Nov 27, 2024 | **Double Ratchet** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_6.pdf)|
 | **Lecture 7** | Dec 04, 2024 | **Password-based Authentication - 1** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_7.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L7.zip)|
 | **Lecture 8** | Dec 11, 2024 | **Password-based Authentication - 2** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_8.pdf)|
-| **Lecture 9** | Jan 15, 2024 | **Password-based Authentication - 3** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_9.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L9.zip)|
-| **Lecture 10**  | Jan 22, 2024| **Some attacks in Cryptography**                              | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_10.pdf), , [Code](../assets/course_CE_WiSe2425/code/Code_L10.zip)|
-| **Lecture 11**  | Jan 29, 2024| **Post-quantum Cryptography - 1**                             | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_11.pdf)                                                 |
-| **Lecture 12**  | Feb 05, 2024| **Post-quantum Cryptography - 2**                             | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_12.pdf)                                                 |
+| **Lecture 9** | Jan 15, 2025 | **Password-based Authentication - 3** |[Slides](../assets/course_CE_WiSe2425/slide/Lecture_9.pdf), [Code](../assets/course_CE_WiSe2425/code/Code_L9.zip)|
+| **Lecture 10**  | Jan 22, 2025| **Some attacks in Cryptography**                              | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_10.pdf), , [Code](../assets/course_CE_WiSe2425/code/Code_L10.zip)|
+| **Lecture 11**  | Jan 29, 2025| **Post-quantum Cryptography - 1**                             | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_11.pdf)                                                 |
+| **Lecture 12**  | Feb 05, 2025| **Post-quantum Cryptography - 2**                             | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_12.pdf)                                                 |
 | **Lecture 13** | Feb 12, 2025 | **Summary** | [Slides](../assets/course_CE_WiSe2425/slide/Lecture_13.pdf)  |
 
 <br>
