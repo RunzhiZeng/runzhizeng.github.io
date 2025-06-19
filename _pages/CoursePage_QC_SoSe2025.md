@@ -74,8 +74,8 @@ nav: false
 | **Lectures 4-5** | May 7-8, 2025 | **Deutsch-Jozsa - 1** | [Slides_L45](../assets/course_QC_SoSe25/W3.pdf) |
 | **Lectures 6-7** | May 21-22, 2025 | **Deutsch-Jozsa - 2, Postulates of Quantum Computing** | [Slides_L67](../assets/course_QC_SoSe25/W5.pdf) |
 | **Lecture 8** | May 28, 2025 | **Entanglement, Partial Measurement** | [Slides_L8](../assets/course_QC_SoSe25/W6.pdf) |
-| **Lecture 9** | June 4, 2025 | **Superdense Coding and Quantum Teleportation** | [Slides_L9](../assets/course_QC_SoSe25/W7.pdf) |
-| **Lectures 10-11** | June 11-12, 2025 | **Quantum Circuits and Controlled Operations** | [Slides_L1011](../assets/course_QC_SoSe25/W8.pdf) |
+| **Lectures 9-10** | June 4-5, 2025 | **Superdense Coding and Quantum Teleportation** | [Slides_L9](../assets/course_QC_SoSe25/W7.pdf) |
+| **Lectures 11-12** | June 11-12, 2025 | **Quantum Circuits and Controlled Operations** | [Slides_L1011](../assets/course_QC_SoSe25/W8.pdf) |
 
 ---
 
