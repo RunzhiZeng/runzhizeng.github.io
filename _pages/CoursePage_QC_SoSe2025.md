@@ -69,14 +69,16 @@ nav: false
 
 | Week | Date          | Topic                           | Notes/Exercises                                      |
 |------|---------------|---------------------------------|-----------------------------------------------------|
-| **Lectures 1-2** | Apr 23-24, 2025 | **Introduction, Qubit** | [Slides_L1](../assets/course_QC_SoSe25/W1_L1.pdf), [Slides_L2](../assets/course_QC_SoSe25/W1_L2.pdf) |
-| **Lecture 3** | Apr 30, 2025 | **Unitary, Quantum Gates** | [Slides_L3](../assets/course_QC_SoSe25/W2_L1.pdf) |
-| **Lectures 4-5** | May 7-8, 2025 | **Deutsch-Jozsa - 1** | [Slides_L45](../assets/course_QC_SoSe25/W3.pdf) |
-| **Lectures 6-7** | May 21-22, 2025 | **Deutsch-Jozsa - 2, Postulates of Quantum Computing** | [Slides_L67](../assets/course_QC_SoSe25/W5.pdf) |
-| **Lecture 8** | May 28, 2025 | **Entanglement, Partial Measurement** | [Slides_L8](../assets/course_QC_SoSe25/W6.pdf) |
-| **Lectures 9-10** | June 4-5, 2025 | **Superdense Coding and Quantum Teleportation** | [Slides_L9](../assets/course_QC_SoSe25/W7.pdf) |
-| **Lectures 11-12** | June 11-12, 2025 | **Quantum Circuits and Controlled Operations** | [Slides_L1011](../assets/course_QC_SoSe25/W8.pdf) |
-| **Lectures 13-14** | June 25-26, 2025 | **Quantum Fourier Transformation** | [Slides_L1213](../assets/course_QC_SoSe25/W9.pdf) |
+| **Lectures 1-2** | Apr 23-24, 2025 | **Introduction, Qubit** | [Slides_W1](../assets/course_QC_SoSe25/W1.pdf) |
+| **Lecture 3** | Apr 30, 2025 | **Unitary, Quantum Gates** | [Slides_W2](../assets/course_QC_SoSe25/W2.pdf) |
+| **Lectures 4-5** | May 7-8, 2025 | **Deutsch-Jozsa - 1** | [Slides_W3](../assets/course_QC_SoSe25/W3.pdf) |
+| | Public holidays | |
+| **Lectures 6-7** | May 21-22, 2025 | **Deutsch-Jozsa - 2, Postulates of Quantum Computing** | [Slides_W5](../assets/course_QC_SoSe25/W5.pdf) |
+| **Lecture 8** | May 28, 2025 | **Entanglement, Partial Measurement** | [Slides_W6](../assets/course_QC_SoSe25/W6.pdf) |
+| **Lectures 9-10** | June 4-5, 2025 | **Superdense Coding and Quantum Teleportation** | [Slides_W7](../assets/course_QC_SoSe25/W7.pdf) |
+| **Lectures 11-12** | June 11-12, 2025 | **Quantum Circuits and Controlled Operations** | [Slides_W8](../assets/course_QC_SoSe25/W8.pdf) |
+| | Public holidays | |
+| **Lectures 13-14** | June 25-26, 2025 | **Quantum Fourier Transformation** | [Slides_W10](../assets/course_QC_SoSe25/W10.pdf) |
 
 ---
 
