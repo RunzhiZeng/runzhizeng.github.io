@@ -76,7 +76,7 @@ nav: false
 | **Lecture 8** | May 28, 2025 | **Entanglement, Partial Measurement** | [Slides_L8](../assets/course_QC_SoSe25/W6.pdf) |
 | **Lectures 9-10** | June 4-5, 2025 | **Superdense Coding and Quantum Teleportation** | [Slides_L9](../assets/course_QC_SoSe25/W7.pdf) |
 | **Lectures 11-12** | June 11-12, 2025 | **Quantum Circuits and Controlled Operations** | [Slides_L1011](../assets/course_QC_SoSe25/W8.pdf) |
-| **Lectures 13-14** | June 25-16, 2025 | **Quantum Fourier Transformation** | [Slides_L1213](../assets/course_QC_SoSe25/W9.pdf) |
+| **Lectures 13-14** | June 25-26, 2025 | **Quantum Fourier Transformation** | [Slides_L1213](../assets/course_QC_SoSe25/W9.pdf) |
 
 ---
 
