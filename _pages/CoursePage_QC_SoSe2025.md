@@ -79,7 +79,7 @@ nav: false
 | **Week 8** | June 11-12, 2025 | **Quantum Circuits and Controlled Operations** | [Slides_W8](../assets/course_QC_SoSe25/W8.pdf) |
 | **Week 9** | Public holidays | |
 | **Week 10** | June 25-26, 2025 | **Quantum Fourier Transformation** | [Slides_W10](../assets/course_QC_SoSe25/W10.pdf) |
-| **Week 11** | July 2-3, 2025 | **Order Finding** | [Slides_W10](../assets/course_QC_SoSe25/W11.pdf) |
+| **Week 11** | July 2-3, 2025 | **Order Finding** | [Slides_W11](../assets/course_QC_SoSe25/W11.pdf) |
 
 ---
 
