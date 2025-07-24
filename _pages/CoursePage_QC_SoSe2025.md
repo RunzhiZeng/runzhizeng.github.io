@@ -72,14 +72,17 @@ nav: false
 | **Week 1** | Apr 23-24, 2025 | **Introduction, Qubit** | [Slides_W1](../assets/course_QC_SoSe25/W1.pdf) |
 | **Week 2** | Apr 30, 2025 | **Unitary, Quantum Gates** | [Slides_W2](../assets/course_QC_SoSe25/W2.pdf) |
 | **Week 3** | May 7-8, 2025 | **Deutsch-Jozsa - 1** | [Slides_W3](../assets/course_QC_SoSe25/W3.pdf) |
-| **Week 4** | Public holidays | |
+| **Week 4** | No lectures | |
 | **Week 5** | May 21-22, 2025 | **Deutsch-Jozsa - 2, Postulates of Quantum Computing** | [Slides_W5](../assets/course_QC_SoSe25/W5.pdf) |
 | **Week 6** | May 28, 2025 | **Entanglement, Partial Measurement** | [Slides_W6](../assets/course_QC_SoSe25/W6.pdf) |
 | **Week 7** | June 4-5, 2025 | **Superdense Coding and Quantum Teleportation** | [Slides_W7](../assets/course_QC_SoSe25/W7.pdf) |
 | **Week 8** | June 11-12, 2025 | **Quantum Circuits and Controlled Operations** | [Slides_W8](../assets/course_QC_SoSe25/W8.pdf) |
-| **Week 9** | Public holidays | |
+| **Week 9** | No lectures | |
 | **Week 10** | June 25-26, 2025 | **Quantum Fourier Transformation** | [Slides_W10](../assets/course_QC_SoSe25/W10.pdf) |
 | **Week 11** | July 2-3, 2025 | **Order Finding** | [Slides_W11](../assets/course_QC_SoSe25/W11.pdf) |
+| **Week 12** | July 9-10, 2025 | **Grover's search algorithm** | [Slides_W12](../assets/course_QC_SoSe25/W12.pdf) |
+| **Week 13** | July 16-17, 2025 | **Density operator, Trace** | [Slides_W13](../assets/course_QC_SoSe25/W13.pdf) |
+| **Week 14** | July 23-24, 2025 | **Quantum key distribution and quantum money** | [Slides_W14](../assets/course_QC_SoSe25/W14.pdf) |
 
 ---
 
