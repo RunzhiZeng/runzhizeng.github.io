@@ -45,17 +45,17 @@ I am currently a post-doc researcher at [Universität Kassel](https://www.uni-ka
 
 #### Program Committee:
 
-* ISC'25, PKC'25
+* PKC'(26,25), ISC'25
 
 #### Review:
 
-* Conferences: *Crypto'(25, 24), Eurocrypt'(25 - 23), PKC'(25, 22), Asiacrypt'(25, 24, 22), TCC'(25 - 23), ESORIC'22*
+* Conferences: *Eurocrypt'(26 - 23), Crypto'(25, 24), PKC'22, Asiacrypt'(25, 24, 22), TCC'(25 - 23), ESORIC'22*
 * Journals: *Design, Code, and Cryptography, IEICE Transactions*
 
 #### Teaching: 
 
 * TA of [TMA4160 - Kryptografi](https://wiki.math.ntnu.no/tma4160)
-* [Cryptography Engineering](https://runzhizeng.github.io/CE-w2425)
+* [Cryptography Engineering](https://runzhizeng.github.io/CE-w2526)
 * [Quantum Computing](https://runzhizeng.github.io/QC-s25)
 
 <br>
