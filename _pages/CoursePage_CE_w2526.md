@@ -55,6 +55,7 @@ nav: false
     - Room 2628, FB16
     - 3:15 pm – 3:45 pm, Wednesday
 - **Grading**: 40% homework + 60% final exam
+- **Example code** can be found in [here](https://github.com/RunzhiZeng/CryptoEng_W2526_RustCode).
 
 
 <br>
@@ -73,7 +74,6 @@ nav: false
 | **Lecture 1** | Oct 22, 2025 | **Introduction, symmetric primitives** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_1.pdf) |
 | **Lecture 2** | Oct 29, 2025 | **DHKE, MitM attacks, Digital signature** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_2.pdf) |
 
-**Example code** can be found in [here](https://github.com/RunzhiZeng/CryptoEng_W2526_RustCode).
 
 <br>
 
