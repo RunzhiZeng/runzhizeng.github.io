@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /CE-w2425/
-title: CE-w2425
+permalink: /CE-w2526/
+title: CE-w2526
 nav: false
 ---
 
