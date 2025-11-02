@@ -73,6 +73,8 @@ nav: false
 | **Lecture 1** | Oct 22, 2025 | **Introduction, symmetric primitives** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_1.pdf) |
 | **Lecture 2** | Oct 29, 2025 | **DHKE, MitM attacks, Digital signature** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_2.pdf) |
 
+**Example code** can be found in [here](https://github.com/RunzhiZeng/CryptoEng_W2526_RustCode).
+
 <br>
 
 ---
