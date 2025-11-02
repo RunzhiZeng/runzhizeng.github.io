@@ -84,10 +84,10 @@ nav: false
 
 - **Eligibility for the Final Exam**: Students must complete at least 60% of the homework.
 - **Homework accounts for 40%** of the final grade.
-<!-- - **Three submission deadlines** for homework (submission via email or GitHub link)
-    - **Deadline 1**: Nov 22, 2024 at 23:59 -- homework from lectures 1-2
-    - **Deadline 2**: Dec 20, 2024 at 23:59 -- homework from lectures 3-4, 7
-    - **Deadline 3**: Feb 14, 2025 at 23:59 -- homework from lectures 8-10 -->
+<!-- - **Three submission deadlines** for homework (submission via email or GitHub link)  -->
+<!-- - **Deadline 1**: Nov 22, 2024 at 23:59 -- homework from lectures 1-2 -->
+<!-- - **Deadline 2**: Dec 20, 2024 at 23:59 -- homework from lectures 3-4, 7 -->
+<!-- - **Deadline 3**: Feb 14, 2025 at 23:59 -- homework from lectures 8-10  -->
 <br>
 
 ---
@@ -98,8 +98,9 @@ nav: false
 **Format**: Final Project + Report + Oral Exam: 
 1. Choose one of the two final projects and begin coding (the topics of the two projects will be introduced later).
 2. Submit a simple report: Choose 3-6 functions that you think are the best in your program and present them in your report, including *What it does*, *How it works*, and *Why it works correctly* (2-4 pages, no introduction). 
-<!--3. **Deadline** will be ann
-1. Oral Exam: Show me your code and answer questions related to your report and code.-->
+<!-- 3. **Deadline**: -->
+<!-- 4. Oral Exam: Show me your code and answer questions related to your report and code. -->
+
 
 <br>
 
