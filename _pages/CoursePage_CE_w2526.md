@@ -75,7 +75,7 @@ nav: false
 | **Lecture 2** | Oct 29, 2025 | **DHKE, MitM attacks, Digital signature** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_2.pdf) |
 | **Lecture 3** | Nov 05, 2025 | **Signed Diffie-Hellman, TLS handshake** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_3.pdf) |
 | **Lecture 4** | Nov 12, 2025 | **KEM, Hashed ElGamal, DHIES** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_4.pdf) |
-
+| **Lecture 5** | Nov 19, 2025 | **CCA security and Fujisaki-Okamoto Transform** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_5.pdf) |
 <br>
 
 ---
