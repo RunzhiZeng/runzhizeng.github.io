@@ -78,6 +78,7 @@ nav: false
 | **Lecture 5** | Nov 19, 2025 | **CCA security and Fujisaki-Okamoto Transform** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_5.pdf) |
 | **Lecture 6** | Nov 26, 2025 | **PQTLS, KEMTLS** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_6.pdf) |
 | **Lecture 7** | Dec 03, 2025 | **X3DH, Symmetric Ratchet** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_7.pdf) |
+| **Lecture 7** | Dec 10, 2025 | **Double Ratchet** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_8.pdf) |
 
 <br>
 
