@@ -79,6 +79,7 @@ nav: false
 | **Lecture 6** | Nov 26, 2025 | **PQTLS, KEMTLS** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_6.pdf) |
 | **Lecture 7** | Dec 03, 2025 | **X3DH, Symmetric Ratchet** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_7.pdf) |
 | **Lecture 8** | Dec 10, 2025 | **Double Ratchet** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_8.pdf) |
+| **Lecture 9** | Dec 17, 2025 | **Remarks on Homework** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_9.pdf) |
 
 <br>
 
