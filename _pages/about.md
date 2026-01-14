@@ -26,13 +26,9 @@ social: false  # includes social icons at the bottom of the page
 <br>
 <br>
 
-I am currently a post-doc researcher at [Universität Kassel](https://www.uni-kassel.de/uni/) working with [Jiaxin Pan](https://sites.google.com/view/jiaxinpan). In September 2024, I completed my PhD at [Norges Teknisk-Naturvitenskapelige Universitet](https://www.ntnu.no/) under the supervision of [Jiaxin Pan](https://sites.google.com/view/jiaxinpan), with [Tibor Jager](https://itsc.uni-wuppertal.de/de/mitarbeiter/prof-dr-ing-tibor-jager/) as the co-examiner. My research interest is in the area of public-key cryptography, with emphasis on the following topics:
+My research focuses on post-quantum cryptography, with particular emphasis on secure handshakes and the transition of cryptographic protocols to post-quantum settings. I am especially interested in connecting formal security models with practical protocol design and deployment considerations.
 
-* Design and analysis of authenticated key exchange (AKE) and password-based AKE
-
-* Construction of efficient lattice-based cryptographic schemes
-
-* Security analysis of post-quantum cryptosystems in quantum idealized models
+I am currently a post-doc researcher at [Universität Kassel](https://www.uni-kassel.de/uni/), working with [Jiaxin Pan](https://sites.google.com/view/jiaxinpan). I completed my PhD in September 2024 at [Norges Teknisk-Naturvitenskapelige Universitet](https://www.ntnu.no/) under the supervision of [Jiaxin Pan](https://sites.google.com/view/jiaxinpan), with [Tibor Jager](https://itsc.uni-wuppertal.de/de/mitarbeiter/prof-dr-ing-tibor-jager/) as the co-examiner. 
 
 <br>
 <br>
