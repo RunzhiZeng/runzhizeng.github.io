@@ -110,6 +110,9 @@ nav: false
 1. Choose one of the two final projects and begin coding (the topics of the two projects will be introduced later).
 2. Submit a simple report: Choose 3-6 functions that you think are the best in your program and present them in your report, including *What it does*, *How it works*, and *Why it works correctly* (2-4 pages, no introduction). 
 
+**Deadline for the report**: TBD
+
+**Date of the oral exam**: March 27th, 2026
 <br>
 
 
