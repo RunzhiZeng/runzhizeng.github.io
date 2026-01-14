@@ -80,6 +80,7 @@ nav: false
 | **Lecture 7** | Dec 03, 2025 | **X3DH, Symmetric Ratchet** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_7.pdf) |
 | **Lecture 8** | Dec 10, 2025 | **Double Ratchet** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_8.pdf) |
 | **Lecture 9** | Dec 17, 2025 | **Remarks on Homework** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_9.pdf) |
+| **Lecture 10** | Jan 14, 2025 | **Password Security - 1** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_10.pdf) |
 
 <br>
 
