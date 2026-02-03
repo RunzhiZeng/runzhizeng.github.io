@@ -82,6 +82,7 @@ nav: false
 | **Lecture 9** | Dec 17, 2025 | **Remarks on Homework** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_9.pdf) |
 | **Lecture 10** | Jan 14, 2026 | **Password Security - 1** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_10.pdf) |
 | **Lecture 11** | Jan 21, 2026 | **Password Security - 2** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_11.pdf) |
+| **Lecture 12** | Jan 28, 2026 | **Hash functions in Blockchain** | [Slides](../assets/course_CE_WiSe2526/slide/Lecture_12.pdf) |
 
 <br>
 
