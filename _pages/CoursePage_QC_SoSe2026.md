@@ -54,7 +54,6 @@ nav: false
     - Room 2628, FB16
     - 3:30 pm – 4:00 pm, Wednesday (Please send an email in advance)
 - **Grading**: TBD
-- **Previous course page:** [Quantum Computing (SoSe 2025)](../QC-s25/)
 
 <br>
 
