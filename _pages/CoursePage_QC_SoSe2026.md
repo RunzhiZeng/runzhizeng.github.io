@@ -69,9 +69,11 @@ nav: false
 
 | Week | Date | Topic | Lecture notes | Remark/Exercises |
 |------|------|-------|---------------|------------------|
-| **Week 1** | Apr 14 | **Introduction** | [LN_W1](../assets/course_QC_SoSe26/LN_W1.pdf) |  No lectures in Apr 15 |
-| **Week 2** | Apr 21-22 | **Qubits, and some linear algebra** | [LN_W2](../assets/course_QC_SoSe26/LN_W2.pdf) |  [Ex_W2](../assets/course_QC_SoSe26/Exercise_W2.pdf) |
-| **Week 3** | Apr 28-29 | **Unitary** | [LN_W3](../assets/course_QC_SoSe26/LN_W3.pdf) | - |
+| **Week 1** | Apr 14 | **Introduction** | [LN_W1](../assets/course_QC_SoSe26/W1.pdf) |  No lectures in Apr 15 |
+| **Week 2** | Apr 21-22 | **Qubits, and some linear algebra** | [LN_W2](../assets/course_QC_SoSe26/W2.pdf) |  [Ex_W2](../assets/course_QC_SoSe26/Exercise_W2.pdf) |
+| **Week 3** | Apr 28-29 | **Unitary** | [LN_W3](../assets/course_QC_SoSe26/W3.pdf) | - |
+| **Week 4** | May 5-6 | **Postulates of Quantum Computing** | [LN_W4](../assets/course_QC_SoSe26/W4.pdf) | - |
+| **Week 5** | - | **No lectures** | - | - |
 
 ---
 
