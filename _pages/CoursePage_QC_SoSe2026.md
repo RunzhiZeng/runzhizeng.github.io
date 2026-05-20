@@ -74,7 +74,7 @@ nav: false
 | **Week 3** | Apr 28-29 | **Unitary** | [LN_W3](../assets/course_QC_SoSe26/W3.pdf) | - |
 | **Week 4** | May 5-6 | **Postulates of Quantum Computing** | [LN_W4](../assets/course_QC_SoSe26/W4.pdf) | - |
 | **Week 5** | - | **No lectures** | - | - |
-| **Week 6** | - | **Deutsch-Jozsa Problem, and Entanglement** | - | - |
+| **Week 6** | - | **Deutsch-Jozsa Problem, and Entanglement** | [LN_W6](../assets/course_QC_SoSe26/W6.pdf) |  [Ex_W6](../assets/course_QC_SoSe26/Exercise_W6.pdf) |
 
 <br>
 
