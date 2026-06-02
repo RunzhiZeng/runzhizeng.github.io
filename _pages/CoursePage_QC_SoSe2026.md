@@ -75,7 +75,8 @@ nav: false
 | **Week 4** | May 5-6 | **Postulates of quantum computing** | [LN_W4](../assets/course_QC_SoSe26/W4.pdf) | - |
 | **Week 5** | - | **No lectures** | - | - |
 | **Week 6** | May 19-20 | **Deutsch-Jozsa problem, quantum entanglement** | [LN_W6](../assets/course_QC_SoSe26/W6.pdf) |  [Ex_W6](../assets/course_QC_SoSe26/Exercise_W6.pdf) |
-| **Week 6** | May 26-27 | **Superdense coding, quantum teleportation** | [LN_W7](../assets/course_QC_SoSe26/W7.pdf) | - |
+| **Week 7** | May 26-27 | **Superdense coding, quantum teleportation** | [LN_W7](../assets/course_QC_SoSe26/W7.pdf) | - |
+| **Week 8** | June 2-3 | **Single-qubit unitary, and controlled operations** | [LN_W8](../assets/course_QC_SoSe26/W8.pdf) | - |
 
 <br>
 
