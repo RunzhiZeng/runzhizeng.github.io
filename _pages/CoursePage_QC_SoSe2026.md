@@ -78,6 +78,8 @@ nav: false
 | **Week 7** | May 26-27 | **Superdense coding, quantum teleportation** | [LN_W7](../assets/course_QC_SoSe26/W7.pdf) | - |
 | **Week 8** | June 2-3 | **Single-qubit unitary, and controlled operations** | [LN_W8](../assets/course_QC_SoSe26/W8.pdf) | - |
 | **Week 9** | June 9-10 | **QFT, and phase estimation** | [LN_W9](../assets/course_QC_SoSe26/W9.pdf) | - |
+| **Week 10** | June 16-17 | **Order finding, and factoring** | [LN_W10](../assets/course_QC_SoSe26/W10.pdf) | - |
+
 
 <br>
 
