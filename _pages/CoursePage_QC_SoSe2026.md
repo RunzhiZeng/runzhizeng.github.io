@@ -81,8 +81,6 @@ nav: false
 | **Week 10** | June 16-17 | **Order finding, and factoring** | [LN_W10](../assets/course_QC_SoSe26/W10.pdf) | - |
 | **Week 11** | June 23-24 | **No lectures** | - | - |
 | **Week 12** | June 30-July 1 | **Grover search** | [LN_W12](../assets/course_QC_SoSe26/W12.pdf) | - |
-| **Week 13** | July 7-8 | - | - | - |
-| **Week 14** | June 14-15 | - | - | - |
 
 
 <br>
