@@ -82,6 +82,7 @@ nav: false
 | **Week 11** | June 23-24 | **No lectures** | - | - |
 | **Week 12** | June 30-July 1 | **Grover search** | [LN_W12](../assets/course_QC_SoSe26/W12.pdf) | - |
 | **Week 13** | July 7-8 | **Density operators** | [LN_W13](../assets/course_QC_SoSe26/W13.pdf) | - |
+| **Week 14** | July 14-15 | **Some ``toy'' applications** | [LN_W14](../assets/course_QC_SoSe26/W14.pdf) | - |
 
 
 <br>
