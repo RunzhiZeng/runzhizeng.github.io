@@ -41,12 +41,12 @@ I am currently a post-doc researcher at [Universität Kassel](https://www.uni-ka
 
 #### Program Committee:
 
-* IWSEC'26, ISC'(26, 25), PKC'(26, 25)
+* CT-RSAC'27, IWSEC'26, ISC'(26, 25), PKC'(26, 25)
 
 #### Review:
 
-* Conferences: *Eurocrypt'(26 - 23), Crypto'(26 - 24), PKC'22, Asiacrypt'(25, 24, 22), TCC'(25 - 23), ESORIC'22*
-* Journals: *Design, Code, and Cryptography, IEICE Transactions*
+* Conferences: *Eurocrypt'(27 - 23), FC'27, Crypto'(26 - 24), PKC'22, Asiacrypt'(25, 24, 22), TCC'(25 - 23), ESORIC'22*
+* Journals: *Journal of Cryptology; Design, Code, and Cryptography; IEICE Transactions*
 
 #### Teaching: 
 
