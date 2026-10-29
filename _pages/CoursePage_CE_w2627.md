@@ -71,7 +71,7 @@ nav: false
 
 <h2 class="course-sub-title">Final Exam</h2>
 
-**Format**: Written exam + final project (Details could be found in [Lecture 1](/assets/course_CE_WiSe2627/L1.pdf))
+**Format**: Written exam + final project (Details could be found in [the course information](/assets/course_CE_WiSe2627/course_info.pdf))
 
 
 **Date of the written exam**: TBD
