@@ -45,6 +45,7 @@ nav: false
 - **Email**: runzhi.zeng@uni-kassel.de
 - **Office Hours**: 15:30 - 16:00, Thursday
 - **Grading**: 50% written exam + 50% final project
+- **Course Information**: [Slides](/assets/course_CE_WiSe2627/course_info.pdf)
 - **Example code**: [GitHub Link](https://github.com/RunzhiZeng/Cryptography-Engineering-WiSe26-27)
 
 <br>
