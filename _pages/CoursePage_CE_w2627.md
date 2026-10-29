@@ -60,7 +60,7 @@ nav: false
 | Week | Date | Topic | Notes |
 |------|------|-------|------------|
 | **Lecture 1** | Oct 21, 2026 | **Introduction, symmetric primitives** | [Slides](/assets/course_CE_WiSe2627/L1.pdf) |
-| **Lecture 2** | Oct 29, 2026 | **More on symmetric primitives** | Slides to be uploaded. |
+| **Lecture 2** | Oct 29, 2026 | **More on symmetric primitives - 1** | [Slides](/assets/course_CE_WiSe2627/L2.pdf) |
 
 <br>
 
