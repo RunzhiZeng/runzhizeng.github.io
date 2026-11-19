@@ -63,7 +63,7 @@ nav: false
 | **Lecture 1** | Oct 21, 2026 | **Introduction, symmetric primitives** | [Slides](/assets/course_CE_WiSe2627/L1.pdf) |
 | **Lecture 2** | Oct 29, 2026 | **More on symmetric primitives - 1** | [Slides](/assets/course_CE_WiSe2627/L2.pdf) |
 | **Lecture 3** | Nov 5, 2026 | **More on symmetric primitives - 2** | [Slides](/assets/course_CE_WiSe2627/L3.pdf) |
-| **Lecture 4** | Nov 19, 2026 | **Public-key Cryptography - 1** | [Slides](/assets/course_CE_WiSe2627/L4.pdf) |
+| **Lecture 4** | Nov 19, 2026 | **Diffie-Hellam key handshake and groups** | [Slides](/assets/course_CE_WiSe2627/L4.pdf) |
 
 <br>
 
